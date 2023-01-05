@@ -1,0 +1,68 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "consejos u",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "MateriasOrganizarIntent",
+                    "slots": [],
+                    "samples": [
+                        "de las materias",
+                        "sobre la materias",
+                        "materias",
+                        "organizar materias "
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "MatematicaConsejoIntent",
+                    "slots": [],
+                    "samples": [
+                        "mate",
+                        "sobre la materia de matematica",
+                        "matematica",
+                        "de mate",
+                        "sobre mates"
+                    ]
+                },
+                {
+                    "name": "SaludMateriaIntent",
+                    "slots": [],
+                    "samples": [
+                        "salud",
+                        "en salud",
+                        "consejos de salud",
+                        "de la materia de salud",
+                        "de salud"
+                    ]
+                },
+                {
+                    "name": "ClubesConsejoIntent",
+                    "slots": [],
+                    "samples": [
+                        "de clubs",
+                        "de clubes",
+                        "clubes",
+                        "de los clubles"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
